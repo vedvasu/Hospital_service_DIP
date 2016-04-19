@@ -1,0 +1,27 @@
+# Hospital_service_DIP
+This project shows how image processing can be used to automate the process of pick-up and 
+delivery of items as requested by patient with the help of a Robot.
+
+Robotics today has made big strides in helping people automate tasks in many areas like
+industries, self-driving cars, and even in healthcare. In the space of healthcare, robots can
+help doctors perform remote operations, help diagnose diseases, keep track of medical history
+and assist in caring for patients.
+
+We live in a world that is fast moving towards longer life expectancies and nuclear families
+giving raise to care centers for the aging population. This creates the need for a large
+workforce to care for those who can no longer take care of themselves. Advances in robotics
+and computer vision have enabled us to build machines that interact with humans naturally,
+require no training to operate and carry out simple tasks. Thus, caretaking is a need that can
+be satisfied by robots, specifically designed to fulfill requests for simple services in a timely
+manner.
+
+This project works to bring our awareness to the issue of catering to the needs of patients, 
+for example, automating the task of serving them, even in the absence of human supervision.
+
+In this theme, the arena is an abstraction of a floor in a hospital, which includes a
+Corridor, a Patient zone and a Service zone. The robot is informed of the patients’ requests
+via a computer that processes the images from a camera and it autonomously seeks the
+provisions to be picked up and delivered to the corresponding patients.
+You are free to design the algorithm for (i) detection of provisions requested by the patients,
+(ii) matching them with provisions at the Service zone and (iii) delivering them to the patients
+in the Patient zone.
